@@ -1,0 +1,1 @@
+Implemented exponential backoff strategy for unstable network responses.
